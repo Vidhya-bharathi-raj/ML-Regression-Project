@@ -9,7 +9,7 @@
 
 - **Understood** the features (columns) and their meanings.
 
-![Screenshot 2024-08-01 024538.png](https://github.com/Vidhya-bharathi-raj/Project-Images/blob/main/ML%20Regression%20Project%20Image/Screenshot_2024-08-01_024538.png)
+![Screenshot 2024-08-01 024538.png](https://github.com/Vidhya-bharathi-raj/Project-Images/blob/main/ML%20Regression%20Project%20Image/Screenshot%202024-08-01%20024538.png)
 
 - **Dropped** any unnecessary features (e.g., the date column).
 - **Calculated** statistics, such as the average mean for gold prices.
