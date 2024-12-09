@@ -66,6 +66,6 @@
 
 - **Compared** test values with predicted values to assess model accuracy.
 
-![Screenshot 2024-08-01 025212.png](https://github.com/Vidhya-bharathi-raj/Project-Images/blob/main/ML%20Regression%20Project%20Image/Screenshot%202024-08-01%20025212.png)
+![Screenshot%202024-12-09%20222521.png](https://github.com/Vidhya-bharathi-raj/Project-Images/blob/main/ML%20Regression%20Project%20Image/Screenshot%202024-12-09%20222521.png)
 
 “Certainly! This project illuminates the synergy between data analysis, visualization, and machine learning in understanding gold price trends and making informed decisions. “
